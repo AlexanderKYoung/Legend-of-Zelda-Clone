@@ -1,0 +1,3564 @@
+fileFormatVersion: 2
+guid: 48229cf75bcff294ba8dc163c7a0ec53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1499042659867713617
+    second: NES - The Legend of Zelda - Overworld First Quest_0
+  - first:
+      213: 6321584025886454855
+    second: NES - The Legend of Zelda - Overworld First Quest_1
+  - first:
+      213: -8836538546976115042
+    second: NES - The Legend of Zelda - Overworld First Quest_2
+  - first:
+      213: 291330355109496829
+    second: NES - The Legend of Zelda - Overworld First Quest_3
+  - first:
+      213: 2659272634997007103
+    second: NES - The Legend of Zelda - Overworld First Quest_4
+  - first:
+      213: -960599183485655219
+    second: NES - The Legend of Zelda - Overworld First Quest_5
+  - first:
+      213: -5987207879406226833
+    second: NES - The Legend of Zelda - Overworld First Quest_6
+  - first:
+      213: 6834633465344530844
+    second: NES - The Legend of Zelda - Overworld First Quest_7
+  - first:
+      213: 8220155510896350476
+    second: NES - The Legend of Zelda - Overworld First Quest_8
+  - first:
+      213: 4345038941887064483
+    second: NES - The Legend of Zelda - Overworld First Quest_9
+  - first:
+      213: 1965044368197162776
+    second: NES - The Legend of Zelda - Overworld First Quest_10
+  - first:
+      213: -2911481578283749167
+    second: NES - The Legend of Zelda - Overworld First Quest_11
+  - first:
+      213: 8182264573307229436
+    second: NES - The Legend of Zelda - Overworld First Quest_12
+  - first:
+      213: 1633714047499925789
+    second: NES - The Legend of Zelda - Overworld First Quest_13
+  - first:
+      213: -4693123624837747111
+    second: NES - The Legend of Zelda - Overworld First Quest_14
+  - first:
+      213: 8710590027967679618
+    second: NES - The Legend of Zelda - Overworld First Quest_15
+  - first:
+      213: -1080395959461941850
+    second: NES - The Legend of Zelda - Overworld First Quest_16
+  - first:
+      213: -8304719292161878451
+    second: NES - The Legend of Zelda - Overworld First Quest_17
+  - first:
+      213: 2854501846727468753
+    second: NES - The Legend of Zelda - Overworld First Quest_18
+  - first:
+      213: -8908787881189831523
+    second: NES - The Legend of Zelda - Overworld First Quest_19
+  - first:
+      213: -9010146039886904860
+    second: NES - The Legend of Zelda - Overworld First Quest_20
+  - first:
+      213: -3129677699144569433
+    second: NES - The Legend of Zelda - Overworld First Quest_21
+  - first:
+      213: 2825133120619101551
+    second: NES - The Legend of Zelda - Overworld First Quest_22
+  - first:
+      213: -7798332338124770277
+    second: NES - The Legend of Zelda - Overworld First Quest_23
+  - first:
+      213: -8934531180221716595
+    second: NES - The Legend of Zelda - Overworld First Quest_24
+  - first:
+      213: -8230616263964039710
+    second: NES - The Legend of Zelda - Overworld First Quest_25
+  - first:
+      213: 2534688117882880625
+    second: NES - The Legend of Zelda - Overworld First Quest_26
+  - first:
+      213: -7006622592506779979
+    second: NES - The Legend of Zelda - Overworld First Quest_27
+  - first:
+      213: 5224013772725415052
+    second: NES - The Legend of Zelda - Overworld First Quest_28
+  - first:
+      213: -8052142782058778771
+    second: NES - The Legend of Zelda - Overworld First Quest_29
+  - first:
+      213: 7579689860646892206
+    second: NES - The Legend of Zelda - Overworld First Quest_30
+  - first:
+      213: 4055227893829103137
+    second: NES - The Legend of Zelda - Overworld First Quest_31
+  - first:
+      213: 1764062802147448304
+    second: NES - The Legend of Zelda - Overworld First Quest_32
+  - first:
+      213: -4651363214166114108
+    second: NES - The Legend of Zelda - Overworld First Quest_33
+  - first:
+      213: 4833910420720233391
+    second: NES - The Legend of Zelda - Overworld First Quest_34
+  - first:
+      213: -7254132822875472618
+    second: NES - The Legend of Zelda - Overworld First Quest_35
+  - first:
+      213: -3698718580252057279
+    second: NES - The Legend of Zelda - Overworld First Quest_36
+  - first:
+      213: 1380436156999955466
+    second: NES - The Legend of Zelda - Overworld First Quest_37
+  - first:
+      213: -3209914854102312048
+    second: NES - The Legend of Zelda - Overworld First Quest_38
+  - first:
+      213: 5819142137993192392
+    second: NES - The Legend of Zelda - Overworld First Quest_39
+  - first:
+      213: 7226996243587941544
+    second: NES - The Legend of Zelda - Overworld First Quest_40
+  - first:
+      213: 339319760308634464
+    second: NES - The Legend of Zelda - Overworld First Quest_41
+  - first:
+      213: 4432180391065639068
+    second: NES - The Legend of Zelda - Overworld First Quest_42
+  - first:
+      213: 2277179165811761865
+    second: NES - The Legend of Zelda - Overworld First Quest_43
+  - first:
+      213: 63604021232204719
+    second: NES - The Legend of Zelda - Overworld First Quest_44
+  - first:
+      213: 985427697737488837
+    second: NES - The Legend of Zelda - Overworld First Quest_45
+  - first:
+      213: 9218022755889994330
+    second: NES - The Legend of Zelda - Overworld First Quest_46
+  - first:
+      213: 4822117513176575766
+    second: NES - The Legend of Zelda - Overworld First Quest_47
+  - first:
+      213: 3945392523754297062
+    second: NES - The Legend of Zelda - Overworld First Quest_48
+  - first:
+      213: -4675031226684271732
+    second: NES - The Legend of Zelda - Overworld First Quest_49
+  - first:
+      213: 5185568362266340809
+    second: NES - The Legend of Zelda - Overworld First Quest_50
+  - first:
+      213: 2232422590622688853
+    second: NES - The Legend of Zelda - Overworld First Quest_51
+  - first:
+      213: 2090713275394203654
+    second: NES - The Legend of Zelda - Overworld First Quest_52
+  - first:
+      213: 513844595036165026
+    second: NES - The Legend of Zelda - Overworld First Quest_53
+  - first:
+      213: 6604833860349095082
+    second: NES - The Legend of Zelda - Overworld First Quest_54
+  - first:
+      213: 7757629028018329160
+    second: NES - The Legend of Zelda - Overworld First Quest_55
+  - first:
+      213: 6141538895790594254
+    second: NES - The Legend of Zelda - Overworld First Quest_56
+  - first:
+      213: 353725271129829781
+    second: NES - The Legend of Zelda - Overworld First Quest_57
+  - first:
+      213: 7792598153465132595
+    second: NES - The Legend of Zelda - Overworld First Quest_58
+  - first:
+      213: -5291667398277089825
+    second: NES - The Legend of Zelda - Overworld First Quest_59
+  - first:
+      213: -6859079873707707720
+    second: NES - The Legend of Zelda - Overworld First Quest_60
+  - first:
+      213: -5185375519416500040
+    second: NES - The Legend of Zelda - Overworld First Quest_61
+  - first:
+      213: -1129200938466675651
+    second: NES - The Legend of Zelda - Overworld First Quest_62
+  - first:
+      213: 6376128352151395722
+    second: NES - The Legend of Zelda - Overworld First Quest_63
+  - first:
+      213: -9169368963799615168
+    second: NES - The Legend of Zelda - Overworld First Quest_64
+  - first:
+      213: -3180559508560540449
+    second: NES - The Legend of Zelda - Overworld First Quest_65
+  - first:
+      213: -1652993017375382354
+    second: NES - The Legend of Zelda - Overworld First Quest_66
+  - first:
+      213: -4651176592548844279
+    second: NES - The Legend of Zelda - Overworld First Quest_67
+  - first:
+      213: -4291973406806811402
+    second: NES - The Legend of Zelda - Overworld First Quest_68
+  - first:
+      213: -3174144062080048644
+    second: NES - The Legend of Zelda - Overworld First Quest_69
+  - first:
+      213: -4744434451029913629
+    second: NES - The Legend of Zelda - Overworld First Quest_70
+  - first:
+      213: -7664011996441507047
+    second: NES - The Legend of Zelda - Overworld First Quest_71
+  - first:
+      213: 6789175242056895666
+    second: NES - The Legend of Zelda - Overworld First Quest_72
+  - first:
+      213: -9037856849569281620
+    second: NES - The Legend of Zelda - Overworld First Quest_73
+  - first:
+      213: -2146137884851777644
+    second: NES - The Legend of Zelda - Overworld First Quest_74
+  - first:
+      213: 5064322439478164225
+    second: NES - The Legend of Zelda - Overworld First Quest_75
+  - first:
+      213: 6291854770077095690
+    second: NES - The Legend of Zelda - Overworld First Quest_76
+  - first:
+      213: -8871807224589302717
+    second: NES - The Legend of Zelda - Overworld First Quest_77
+  - first:
+      213: 8125160283406215747
+    second: NES - The Legend of Zelda - Overworld First Quest_78
+  - first:
+      213: -8563901899247575951
+    second: NES - The Legend of Zelda - Overworld First Quest_79
+  - first:
+      213: -8410695864479129092
+    second: NES - The Legend of Zelda - Overworld First Quest_80
+  - first:
+      213: -739414796010325186
+    second: NES - The Legend of Zelda - Overworld First Quest_81
+  - first:
+      213: 2150422818426789961
+    second: NES - The Legend of Zelda - Overworld First Quest_82
+  - first:
+      213: 6547903249788764132
+    second: NES - The Legend of Zelda - Overworld First Quest_83
+  - first:
+      213: -3572389366026579572
+    second: NES - The Legend of Zelda - Overworld First Quest_84
+  - first:
+      213: 1628013327655345597
+    second: NES - The Legend of Zelda - Overworld First Quest_85
+  - first:
+      213: 8364504713682812627
+    second: NES - The Legend of Zelda - Overworld First Quest_86
+  - first:
+      213: -8866990415111688756
+    second: NES - The Legend of Zelda - Overworld First Quest_87
+  - first:
+      213: 6272318946144852548
+    second: NES - The Legend of Zelda - Overworld First Quest_88
+  - first:
+      213: -4945008280021737817
+    second: NES - The Legend of Zelda - Overworld First Quest_89
+  - first:
+      213: -5714267850385104333
+    second: NES - The Legend of Zelda - Overworld First Quest_90
+  - first:
+      213: 3146300708187229184
+    second: NES - The Legend of Zelda - Overworld First Quest_91
+  - first:
+      213: 6562689049963341408
+    second: NES - The Legend of Zelda - Overworld First Quest_92
+  - first:
+      213: 8035598395506785691
+    second: NES - The Legend of Zelda - Overworld First Quest_93
+  - first:
+      213: -5074959022846945123
+    second: NES - The Legend of Zelda - Overworld First Quest_94
+  - first:
+      213: 3105386027889762883
+    second: NES - The Legend of Zelda - Overworld First Quest_95
+  - first:
+      213: 7355258125597366287
+    second: NES - The Legend of Zelda - Overworld First Quest_96
+  - first:
+      213: -7511455496682730959
+    second: NES - The Legend of Zelda - Overworld First Quest_97
+  - first:
+      213: -7308600201595286823
+    second: NES - The Legend of Zelda - Overworld First Quest_98
+  - first:
+      213: 1878456593449063913
+    second: NES - The Legend of Zelda - Overworld First Quest_99
+  - first:
+      213: -3428938868837895669
+    second: NES - The Legend of Zelda - Overworld First Quest_100
+  - first:
+      213: -7960503286974513913
+    second: NES - The Legend of Zelda - Overworld First Quest_101
+  - first:
+      213: 2039334067484302533
+    second: NES - The Legend of Zelda - Overworld First Quest_102
+  - first:
+      213: 5765262627850469726
+    second: NES - The Legend of Zelda - Overworld First Quest_103
+  - first:
+      213: 7923041146778124963
+    second: NES - The Legend of Zelda - Overworld First Quest_104
+  - first:
+      213: -2929080211438136048
+    second: NES - The Legend of Zelda - Overworld First Quest_105
+  - first:
+      213: 6163838848404661632
+    second: NES - The Legend of Zelda - Overworld First Quest_106
+  - first:
+      213: 1318346638701533480
+    second: NES - The Legend of Zelda - Overworld First Quest_107
+  - first:
+      213: -2463572556148397198
+    second: NES - The Legend of Zelda - Overworld First Quest_108
+  - first:
+      213: -9150844093252778289
+    second: NES - The Legend of Zelda - Overworld First Quest_109
+  - first:
+      213: -2469765502784014053
+    second: NES - The Legend of Zelda - Overworld First Quest_110
+  - first:
+      213: 2428013293883926130
+    second: NES - The Legend of Zelda - Overworld First Quest_111
+  - first:
+      213: 8159765986542440131
+    second: NES - The Legend of Zelda - Overworld First Quest_112
+  - first:
+      213: -9116871489029526792
+    second: NES - The Legend of Zelda - Overworld First Quest_113
+  - first:
+      213: 8520517056044380656
+    second: NES - The Legend of Zelda - Overworld First Quest_114
+  - first:
+      213: 3523076097805383543
+    second: NES - The Legend of Zelda - Overworld First Quest_115
+  - first:
+      213: 4206872674112839909
+    second: NES - The Legend of Zelda - Overworld First Quest_116
+  - first:
+      213: -9223359958511665705
+    second: NES - The Legend of Zelda - Overworld First Quest_117
+  - first:
+      213: -8713698541622309647
+    second: NES - The Legend of Zelda - Overworld First Quest_118
+  - first:
+      213: -2425236730883444317
+    second: NES - The Legend of Zelda - Overworld First Quest_119
+  - first:
+      213: 2193975654930250346
+    second: NES - The Legend of Zelda - Overworld First Quest_120
+  - first:
+      213: 2657030103679463736
+    second: NES - The Legend of Zelda - Overworld First Quest_121
+  - first:
+      213: 8069255884279114983
+    second: NES - The Legend of Zelda - Overworld First Quest_122
+  - first:
+      213: -1566879403612275125
+    second: NES - The Legend of Zelda - Overworld First Quest_123
+  - first:
+      213: -1134139789419891951
+    second: NES - The Legend of Zelda - Overworld First Quest_124
+  - first:
+      213: -948375171208771041
+    second: NES - The Legend of Zelda - Overworld First Quest_125
+  - first:
+      213: -462203185949384330
+    second: NES - The Legend of Zelda - Overworld First Quest_126
+  - first:
+      213: 8186782545749367751
+    second: NES - The Legend of Zelda - Overworld First Quest_127
+  - first:
+      213: -7376983620145144265
+    second: NES - The Legend of Zelda - Overworld First Quest_128
+  - first:
+      213: -6251517573621405595
+    second: NES - The Legend of Zelda - Overworld First Quest_129
+  - first:
+      213: 3419742492176333528
+    second: NES - The Legend of Zelda - Overworld First Quest_130
+  - first:
+      213: 3576681509576650839
+    second: NES - The Legend of Zelda - Overworld First Quest_131
+  - first:
+      213: -4359925682698693365
+    second: NES - The Legend of Zelda - Overworld First Quest_132
+  - first:
+      213: 1124130435868708543
+    second: NES - The Legend of Zelda - Overworld First Quest_133
+  - first:
+      213: -8755014553958659812
+    second: NES - The Legend of Zelda - Overworld First Quest_134
+  - first:
+      213: 5373646425893549742
+    second: NES - The Legend of Zelda - Overworld First Quest_135
+  - first:
+      213: -5701694220621566085
+    second: NES - The Legend of Zelda - Overworld First Quest_136
+  - first:
+      213: -8732715997369883049
+    second: NES - The Legend of Zelda - Overworld First Quest_137
+  - first:
+      213: -831998088395142598
+    second: NES - The Legend of Zelda - Overworld First Quest_138
+  - first:
+      213: -5712377704588160870
+    second: NES - The Legend of Zelda - Overworld First Quest_139
+  - first:
+      213: -6878024461922450467
+    second: NES - The Legend of Zelda - Overworld First Quest_140
+  - first:
+      213: -121718414229620786
+    second: NES - The Legend of Zelda - Overworld First Quest_141
+  - first:
+      213: 2352435250457005595
+    second: NES - The Legend of Zelda - Overworld First Quest_142
+  - first:
+      213: 3234718157096070402
+    second: NES - The Legend of Zelda - Overworld First Quest_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150629c5b5badc410800000000000000
+      internalID: 1499042659867713617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744feb8ad27cab750800000000000000
+      internalID: 6321584025886454855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96317f620f4e5580800000000000000
+      internalID: -8836538546976115042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_3
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df707981a630b0400800000000000000
+      internalID: 291330355109496829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_4
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2e9e14f52a7e420800000000000000
+      internalID: 2659272634997007103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_5
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47aec0d1244ba2f0800000000000000
+      internalID: -960599183485655219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_6
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62729fb72a29eca0800000000000000
+      internalID: -5987207879406226833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_7
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c999bdfdcee79de50800000000000000
+      internalID: 6834633465344530844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_8
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05527982ebd31270800000000000000
+      internalID: 8220155510896350476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_9
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9ea6a85edac4c30800000000000000
+      internalID: 4345038941887064483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_10
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817164e017d354b10800000000000000
+      internalID: 1965044368197162776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_11
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0bd442ee65897d0800000000000000
+      internalID: -2911481578283749167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_12
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf49d36274e3d8170800000000000000
+      internalID: 8182264573307229436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_13
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d197cc9354e1ca610800000000000000
+      internalID: 1633714047499925789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_14
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e6d8eadecaedeb0800000000000000
+      internalID: -4693123624837747111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_15
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 1421
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cc211da7b32e870800000000000000
+      internalID: 8710590027967679618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ade08b5999a101f0800000000000000
+      internalID: -1080395959461941850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d469b57ddc5bfbc80800000000000000
+      internalID: -8304719292161878451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d623e84e4a3d9720800000000000000
+      internalID: 2854501846727468753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_19
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c00627f90ad5480800000000000000
+      internalID: -8908787881189831523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_20
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1062e1ae785f280800000000000000
+      internalID: -9010146039886904860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_21
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ada601e6b62194d0800000000000000
+      internalID: -3129677699144569433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_22
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d31b1ea93e43720800000000000000
+      internalID: 2825133120619101551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14b1a94e02c6c390800000000000000
+      internalID: -7798332338124770277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_24
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87ab309a3b220480800000000000000
+      internalID: -8934531180221716595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_25
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5eed79d1af6cd80800000000000000
+      internalID: -8230616263964039710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_26
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17200d2f9650d2320800000000000000
+      internalID: 2534688117882880625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_27
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b62862ffd973ce90800000000000000
+      internalID: -7006622592506779979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_28
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ceb0929dc6f7840800000000000000
+      internalID: 5224013772725415052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_29
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f29a24dca014090800000000000000
+      internalID: -8052142782058778771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_30
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2fc73f4c7703960800000000000000
+      internalID: 7579689860646892206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_31
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 1244
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e60fea840174830800000000000000
+      internalID: 4055227893829103137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f59a7ba5c53b7810800000000000000
+      internalID: 1764062802147448304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c04f4afcc9037fb0800000000000000
+      internalID: -4651363214166114108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_34
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faba61f9aef751340800000000000000
+      internalID: 4833910420720233391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_35
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d7103b1a4245b90800000000000000
+      internalID: -7254132822875472618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_36
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14160f34c038bacc0800000000000000
+      internalID: -3698718580252057279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_37
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a047615fe5b482310800000000000000
+      internalID: 1380436156999955466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_38
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b5bf172771473d0800000000000000
+      internalID: -3209914854102312048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_39
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3679081feb1c050800000000000000
+      internalID: 5819142137993192392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_40
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a444241bc27b4460800000000000000
+      internalID: 7226996243587941544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_41
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0638772368185b400800000000000000
+      internalID: 339319760308634464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_42
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c985bed3594428d30800000000000000
+      internalID: 4432180391065639068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_43
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c26124e26a2a9f10800000000000000
+      internalID: 2277179165811761865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_44
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabf4d33587f1e000800000000000000
+      internalID: 63604021232204719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_45
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c959732541fcad00800000000000000
+      internalID: 985427697737488837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_46
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a5a487bdefcef70800000000000000
+      internalID: 9218022755889994330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_47
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 1067
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f641e545a9be240800000000000000
+      internalID: 4822117513176575766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e65bd5c899d0c630800000000000000
+      internalID: 3945392523754297062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_49
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8310a36ed3fe1fb0800000000000000
+      internalID: -4675031226684271732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_50
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cda36f73f6d6f740800000000000000
+      internalID: 5185568362266340809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_51
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5566f9ea4882bfe10800000000000000
+      internalID: 2232422590622688853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_52
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600a01b95a4b30d10800000000000000
+      internalID: 2090713275394203654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_53
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a392eccfea812700800000000000000
+      internalID: 513844595036165026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_54
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac649ee66519ab50800000000000000
+      internalID: 6604833860349095082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_55
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8469a42df72a8ab60800000000000000
+      internalID: 7757629028018329160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_56
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8d7d126112b3550800000000000000
+      internalID: 6141538895790594254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_57
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591b5cd824fa8e400800000000000000
+      internalID: 353725271129829781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_58
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33677aecbbed42c60800000000000000
+      internalID: 7792598153465132595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_59
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5bd28a9883096b0800000000000000
+      internalID: -5291667398277089825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_60
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2fe912237afc0a0800000000000000
+      internalID: -6859079873707707720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_61
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b04c2a3078d908b0800000000000000
+      internalID: -5185375519416500040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_62
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34f7aeaab54450f0800000000000000
+      internalID: -1129200938466675651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_63
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 890
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dd74044fe8c7850800000000000000
+      internalID: 6376128352151395722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0497b32428bdfb080800000000000000
+      internalID: -9169368963799615168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_65
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc02417af16cd3d0800000000000000
+      internalID: -3180559508560540449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_66
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4a32fcb936f09e0800000000000000
+      internalID: -1652993017375382354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_67
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90da3853883b37fb0800000000000000
+      internalID: -4651176592548844279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_68
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc5bd52de8df64c0800000000000000
+      internalID: -4291973406806811402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_69
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1adc9facc23f3d0800000000000000
+      internalID: -3174144062080048644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_70
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef8c3ef002682eb0800000000000000
+      internalID: -4744434451029913629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_71
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b85c5e1b5f3a590800000000000000
+      internalID: -7664011996441507047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_72
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc8dac79eef73e50800000000000000
+      internalID: 6789175242056895666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_73
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca987967415139280800000000000000
+      internalID: -9037856849569281620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_74
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fc666e6f26732e0800000000000000
+      internalID: -2146137884851777644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_75
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bb2214d66184640800000000000000
+      internalID: 5064322439478164225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_76
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07dac4e398215750800000000000000
+      internalID: 6291854770077095690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_77
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3444c96855201e480800000000000000
+      internalID: -8871807224589302717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_78
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a2a839a3e52c070800000000000000
+      internalID: 8125160283406215747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_79
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 713
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c1e0c9898e62980800000000000000
+      internalID: -8563901899247575951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1efdb4ca4374b80800000000000000
+      internalID: -8410695864479129092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_81
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bf22e19221db5f0800000000000000
+      internalID: -739414796010325186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_82
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9402931f826d7dd10800000000000000
+      internalID: 2150422818426789961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_83
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eff84b3053deda50800000000000000
+      internalID: 6547903249788764132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_84
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c815a968cc25c6ec0800000000000000
+      internalID: -3572389366026579572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_85
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd9f74fe7dd79610800000000000000
+      internalID: 1628013327655345597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_86
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3def42558b0b41470800000000000000
+      internalID: 8364504713682812627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_87
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd6970623f12f480800000000000000
+      internalID: -8866990415111688756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_88
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a9aee69d0cb0750800000000000000
+      internalID: 6272318946144852548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_89
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae50f94b2dcf5bb0800000000000000
+      internalID: -4945008280021737817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_90
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3326c526aa7d2b0b0800000000000000
+      internalID: -5714267850385104333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_91
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c4f0403d7e9ab20800000000000000
+      internalID: 3146300708187229184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_92
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066296a9bea531b50800000000000000
+      internalID: 6562689049963341408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_93
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d71e19a2e248f60800000000000000
+      internalID: 8035598395506785691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_94
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d985b8138af1299b0800000000000000
+      internalID: -5074959022846945123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_95
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 536
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342a4daa32c881b20800000000000000
+      internalID: 3105386027889762883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08598f9b40231660800000000000000
+      internalID: 7355258125597366287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_97
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a021ee503f1c790800000000000000
+      internalID: -7511455496682730959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_98
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da809ad6d2a29a90800000000000000
+      internalID: -7308600201595286823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_99
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5958ab15e911a10800000000000000
+      internalID: 1878456593449063913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_100
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02336e1446f960d0800000000000000
+      internalID: -3428938868837895669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_101
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dfd82ef6c968190800000000000000
+      internalID: -7960503286974513913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_102
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc11ce878b2d4c10800000000000000
+      internalID: 2039334067484302533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_103
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51ccd970d3520050800000000000000
+      internalID: 5765262627850469726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_104
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a28386e1fb44fd60800000000000000
+      internalID: 7923041146778124963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_105
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0159a9e0111d957d0800000000000000
+      internalID: -2929080211438136048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_106
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085a9e376ca5a8550800000000000000
+      internalID: 6163838848404661632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_107
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82992a27845bb4210800000000000000
+      internalID: 1318346638701533480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_108
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27baf5010d1afcdd0800000000000000
+      internalID: -2463572556148397198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_109
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6cfaac7cba10180800000000000000
+      internalID: -9150844093252778289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_110
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b197b005c51a9bdd0800000000000000
+      internalID: -2469765502784014053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_111
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 359
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276a0e30a3902b120800000000000000
+      internalID: 2428013293883926130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce4d26beef4d3170800000000000000
+      internalID: 8159765986542440131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_113
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa22891fad5a7180800000000000000
+      internalID: -9116871489029526792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_114
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1be2c6e15fe3670800000000000000
+      internalID: 8520517056044380656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_115
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777fb5e7b0b74e030800000000000000
+      internalID: 3523076097805383543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_116
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e02bcb7860d16a30800000000000000
+      internalID: 4206872674112839909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_117
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddb9553cfa000080800000000000000
+      internalID: -9223359958511665705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_118
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc43c2f759b21780800000000000000
+      internalID: -8713698541622309647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_119
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1767fea04d75ed0800000000000000
+      internalID: -2425236730883444317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_120
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6af8f5eb31927e10800000000000000
+      internalID: 2193975654930250346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_121
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831755f3dcaafd420800000000000000
+      internalID: 2657030103679463736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_122
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecef285971cbff60800000000000000
+      internalID: 8069255884279114983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_123
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e70ddeb73514ae0800000000000000
+      internalID: -1566879403612275125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_124
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113bdf5ded9b240f0800000000000000
+      internalID: -1134139789419891951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_125
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a0d467ec1b6d2f0800000000000000
+      internalID: -948375171208771041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_126
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671ee67b6ace599f0800000000000000
+      internalID: -462203185949384330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_127
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 182
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb52c4995b4d9170800000000000000
+      internalID: 8186782545749367751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e9f5f7b70bf9990800000000000000
+      internalID: -7376983620145144265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_129
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5682f2583e52e39a0800000000000000
+      internalID: -6251517573621405595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_130
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daba759dad557f20800000000000000
+      internalID: 3419742492176333528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_131
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750360502ece2a130800000000000000
+      internalID: 3576681509576650839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_132
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0554a301be6e73c0800000000000000
+      internalID: -4359925682698693365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_133
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbec82feca6b99f00800000000000000
+      internalID: 1124130435868708543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_134
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c194be336a0ff7680800000000000000
+      internalID: -8755014553958659812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_135
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6beeb14f6039a40800000000000000
+      internalID: 5373646425893549742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_136
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f24f1b0538fd0b0800000000000000
+      internalID: -5701694220621566085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_137
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756a56c71192fc680800000000000000
+      internalID: -8732715997369883049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_138
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a476f85262474f0800000000000000
+      internalID: -831998088395142598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_139
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90592f3ebe89b0b0800000000000000
+      internalID: -5712377704588160870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_140
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd34aa671395c80a0800000000000000
+      internalID: -6878024461922450467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_141
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec738354fb19f4ef0800000000000000
+      internalID: -121718414229620786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_142
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ec894856785a020800000000000000
+      internalID: 2352435250457005595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Overworld First Quest_143
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 5
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20da73e860704ec20800000000000000
+      internalID: 3234718157096070402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

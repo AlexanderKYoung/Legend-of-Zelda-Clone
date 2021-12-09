@@ -1,0 +1,12 @@
+
+=== Sun Nov  7 10:44:55 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were updated:
+  com.unity.2d.animation from version 5.0.7 to 5.0.9
+  com.unity.2d.psdimporter from version 4.1.0 to 4.1.2
+  com.unity.2d.spriteshape from version 5.1.4 to 5.1.5
+  com.unity.ide.vscode from version 1.2.3 to 1.2.4
+  com.unity.test-framework from version 1.1.27 to 1.1.29
